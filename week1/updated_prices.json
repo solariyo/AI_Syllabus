@@ -1,0 +1,44 @@
+[
+  {
+    "product_name": "Microgreens",
+    "product_type": "Vegetable",
+    "original_price": 10.0,
+    "discounted_price": 9.0,
+    "saving": 1.0
+  },
+  {
+    "product_name": "Lettuce",
+    "product_type": "Vegetable",
+    "original_price": 5.0,
+    "discounted_price": 4.5,
+    "saving": 0.5
+  },
+  {
+    "product_name": "Tomatoes",
+    "product_type": "Fruits",
+    "original_price": 8.0,
+    "discounted_price": 8.0,
+    "saving": 0.0
+  },
+  {
+    "product_name": "Strawberries",
+    "product_type": "Fruit",
+    "original_price": 12.0,
+    "discounted_price": 11.4,
+    "saving": 0.6
+  },
+  {
+    "product_name": "Basil",
+    "product_type": "Herb",
+    "original_price": 7.0,
+    "discounted_price": 5.95,
+    "saving": 1.05
+  },
+  {
+    "product_name": "Mint",
+    "product_type": "Herb",
+    "original_price": 6.0,
+    "discounted_price": 5.1,
+    "saving": 0.9
+  }
+]
